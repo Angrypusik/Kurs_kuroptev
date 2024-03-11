@@ -1,2 +1,4 @@
 streamlit
 ultralytics
+altair
+pandas
